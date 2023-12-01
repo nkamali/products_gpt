@@ -29,8 +29,8 @@ Before you begin, ensure you have met the following requirements:
 
 Clone the repository:
 ```bash
-git clone [repository URL]
-cd [repository directory]
+git clone https://github.com/nkamali/products_gpt
+cd products_gpt
 ```
 
 Create your Python virtual environment
